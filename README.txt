@@ -11,6 +11,7 @@ $> go run hello-goweb.go
 
 == Install
 
+$> git clone git@github.com:julweber/hello-goweb.git 
 $> go install
 
 == Requests
